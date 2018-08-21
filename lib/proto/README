@@ -1,0 +1,18 @@
+Chromium
+============
+
+Project: Chromium
+URL: https://www.chromium.org
+Revision: aa0a64440d8045e9ee0962ed1a1d7386a24d5921
+
+Imported Files
+---------------
+
+- components/cast_channel/proto/cast_channel.proto
+
+
+Generated Files
+----------------
+
+They are generated from the .proto files by Makefile.
+- lib/proto/cast_channel.desc
